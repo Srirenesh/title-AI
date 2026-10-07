@@ -4,7 +4,7 @@ from fastapi import FastAPI
 
 from app.api.routes import router
 from app.config import get_settings
-from app.database import Base, engine
+from app.database import Base, engine, init_db
 from app.middleware import AuditMiddleware, RateLimitMiddleware
 
 settings = get_settings()
@@ -13,10 +13,14 @@ settings = get_settings()
 @asynccontextmanager
 async def lifespan(_: FastAPI):
     if settings.auto_create_tables:
-        async with engine.begin() as connection:
-            await connection.run_sync(Base.metadata.create_all)
+        await init_db()
     yield
-    await engine.dispose()
+    try:
+        from app.database import engine
+        await engine.dispose()
+    except Exception:
+        pass
+
 
 
 app = FastAPI(

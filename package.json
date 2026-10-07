@@ -5,6 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:all": "node -e \"require('child_process').execSync('backend\\\\.venv\\\\Scripts\\\\python.exe run_app.py', {stdio: 'inherit'})\"",
+    "backend": "cd backend && .venv\\Scripts\\uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "start": "backend\\.venv\\Scripts\\python.exe run_app.py",
     "build": "vite build",
     "preview": "vite preview",
     "format": "oxfmt"
