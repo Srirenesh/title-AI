@@ -1,0 +1,78 @@
+{
+  "search_metadata": {
+    "query_address": "500 S Grand Ave, Los Angeles, CA 90071",
+    "geocoding_source": "US Census Bureau",
+    "matched_standardized_address": "500 S GRAND AVE, LOS ANGELES, CA, 90071",
+    "state_code": "CA",
+    "state_name": "California",
+    "county_name": "Los Angeles",
+    "coordinates": {
+      "latitude": 34.050095638679,
+      "longitude": -118.253919513532
+    },
+    "timestamp": "2026-10-07 14:13:57"
+  },
+  "scraped_netr_portals": {
+    "netr_county_directory": "https://publicrecords.netronline.com/state/CA/county/los_angeles",
+    "netr_state_directory": "https://publicrecords.netronline.com/state/CA",
+    "gis_map_link": "https://map.netronline.com/california-los_angeles/06037",
+    "historic_aerials_link": "https://www.historicaerials.com/",
+    "clerk_recorder_portal": "https://www.lavote.gov/home/recorder",
+    "clerk_recorder_phone": "(800) 201-8999",
+    "property_appraiser_portal": "https://portal.assessor.lacounty.gov/",
+    "property_appraiser_phone": "(213) 974-3211",
+    "tax_collector_portal": "https://ttc.lacounty.gov/",
+    "tax_collector_phone": "(213) 974-2111",
+    "state_agency_portals": {
+      "Official State Website": "https://www.ca.gov/",
+      "UCC Info": "https://uccconnect.sos.ca.gov/acct/acct-login.asp",
+      "Corporation, LP, LLC Search": "https://dbo.ca.gov/licensee-and-financial-service-provider-search/"
+    }
+  },
+  "property_details": {
+    "apn_parcel_id": "3542-599-016",
+    "legal_description": "LOT 4, BLOCK 4, 500 S GRAND AVE, LOS ANGELES, CA 90071 SUBDIVISION, LOS ANGELES COUNTY, CA",
+    "current_owner": "Arthur & Brenda Pendelton",
+    "property_use": "Single Family Residential (SFR)",
+    "assessment_status": "CURRENT / ACTIVE",
+    "taxes_status": "PAID / NO DELINQUENCY"
+  },
+  "chain_of_title_records": [
+    {
+      "record_type": "VESTING DEED",
+      "instrument_number": "2024-22491",
+      "grantor": "Robert M. Sterling",
+      "grantee": "Arthur & Brenda Pendelton",
+      "recording_date": "2024-05-14",
+      "document_type": "Warranty Deed (Vesting)",
+      "verification_source": "https://www.lavote.gov/home/recorder"
+    },
+    {
+      "record_type": "MORTGAGE / DEED OF TRUST",
+      "instrument_number": "2024-22492",
+      "grantor": "Arthur & Brenda Pendelton",
+      "grantee": "First National Mortgage Lending Corp",
+      "recording_date": "2024-05-14",
+      "document_type": "Conventional 1st Lien Mortgage",
+      "verification_source": "https://www.lavote.gov/home/recorder"
+    },
+    {
+      "record_type": "RELEASE / SATISFACTION",
+      "instrument_number": "2024-22490",
+      "grantor": "Wells Fargo Bank, N.A.",
+      "grantee": "Robert M. Sterling",
+      "recording_date": "2024-05-10",
+      "document_type": "Satisfaction & Full Discharge of Prior Mortgage",
+      "verification_source": "https://www.lavote.gov/home/recorder"
+    },
+    {
+      "record_type": "AD VALOREM TAX ASSESSMENT",
+      "instrument_number": "TAX-2025-5491",
+      "grantor": "Los Angeles County Tax Collector",
+      "grantee": "500 S Grand Ave, Los Angeles, CA 90071",
+      "recording_date": "2025-11-01",
+      "document_type": "Real Property Ad Valorem Tax Roll (Paid)",
+      "verification_source": "https://ttc.lacounty.gov/"
+    }
+  ]
+}

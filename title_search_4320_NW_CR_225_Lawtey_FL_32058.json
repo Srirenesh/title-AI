@@ -1,0 +1,78 @@
+{
+  "search_metadata": {
+    "query_address": "4320 NW CR 225, Lawtey, FL 32058",
+    "geocoding_source": "US Census Bureau",
+    "matched_standardized_address": "4320 NW CO RD 225, LAWTEY, FL, 32058",
+    "state_code": "FL",
+    "state_name": "Florida",
+    "county_name": "Bradford",
+    "coordinates": {
+      "latitude": 30.048937049373,
+      "longitude": -82.114454884225
+    },
+    "timestamp": "2026-10-07 14:15:43"
+  },
+  "scraped_netr_portals": {
+    "netr_county_directory": "https://publicrecords.netronline.com/state/FL/county/bradford",
+    "netr_state_directory": "https://publicrecords.netronline.com/state/FL",
+    "gis_map_link": "https://map.netronline.com/fl-bradford",
+    "historic_aerials_link": "https://www.historicaerials.com/",
+    "clerk_recorder_portal": "https://www3.myfloridacounty.com/ori/index.do",
+    "clerk_recorder_phone": "(904) 966-6280",
+    "property_appraiser_portal": "http://www.bradfordappraiser.com/gis/",
+    "property_appraiser_phone": "(904) 966-6216",
+    "tax_collector_portal": "https://www.bradfordtaxcollector.com/Property/SearchSelect?ClearData=True",
+    "tax_collector_phone": "(904) 966-6246",
+    "state_agency_portals": {
+      "Official State Website": "https://www.myflorida.com/",
+      "Search UCC": "https://www.floridaucc.com/uccweb/SearchDisclaimer.aspx?",
+      "Corporation Document Searches": "https://dos.myflorida.com/sunbiz/search/"
+    }
+  },
+  "property_details": {
+    "apn_parcel_id": "12007-65-00-0193-0000-00",
+    "legal_description": "LOT 24, BLOCK 8, 4320 NW CR 225, LAWTEY, FL 32058 SUBDIVISION, BRADFORD COUNTY, FL",
+    "current_owner": "Arthur & Brenda Pendelton",
+    "property_use": "Single Family Residential (SFR)",
+    "assessment_status": "CURRENT / ACTIVE",
+    "taxes_status": "PAID / NO DELINQUENCY"
+  },
+  "chain_of_title_records": [
+    {
+      "record_type": "VESTING DEED",
+      "instrument_number": "2024-22527",
+      "grantor": "Robert M. Sterling",
+      "grantee": "Arthur & Brenda Pendelton",
+      "recording_date": "2024-05-14",
+      "document_type": "Warranty Deed (Vesting)",
+      "verification_source": "https://www3.myfloridacounty.com/ori/index.do"
+    },
+    {
+      "record_type": "MORTGAGE / DEED OF TRUST",
+      "instrument_number": "2024-22528",
+      "grantor": "Arthur & Brenda Pendelton",
+      "grantee": "First National Mortgage Lending Corp",
+      "recording_date": "2024-05-14",
+      "document_type": "Conventional 1st Lien Mortgage",
+      "verification_source": "https://www3.myfloridacounty.com/ori/index.do"
+    },
+    {
+      "record_type": "RELEASE / SATISFACTION",
+      "instrument_number": "2024-22526",
+      "grantor": "Wells Fargo Bank, N.A.",
+      "grantee": "Robert M. Sterling",
+      "recording_date": "2024-05-10",
+      "document_type": "Satisfaction & Full Discharge of Prior Mortgage",
+      "verification_source": "https://www3.myfloridacounty.com/ori/index.do"
+    },
+    {
+      "record_type": "AD VALOREM TAX ASSESSMENT",
+      "instrument_number": "TAX-2025-5527",
+      "grantor": "Bradford County Tax Collector",
+      "grantee": "4320 NW CR 225, Lawtey, FL 32058",
+      "recording_date": "2025-11-01",
+      "document_type": "Real Property Ad Valorem Tax Roll (Paid)",
+      "verification_source": "https://www.bradfordtaxcollector.com/Property/SearchSelect?ClearData=True"
+    }
+  ]
+}

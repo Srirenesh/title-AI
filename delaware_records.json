@@ -1,0 +1,188 @@
+[
+  {
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "state_url": "https://publicrecords.netronline.com/state/DE",
+    "state_links": {
+      "Official State Website": "https://delaware.gov/",
+      "UCC Info": "https://corp.delaware.gov/"
+    },
+    "total_counties": 3,
+    "counties": [
+      {
+        "county_name": "Kent",
+        "county_url": "https://publicrecords.netronline.com/state/DE/county/kent",
+        "gis_map_url": "https://map.netronline.com/delaware-kent/10001",
+        "historic_aerials_url": "https://www.historicaerials.com/",
+        "offices": [
+          {
+            "office_name": "Kent Recorder",
+            "office_type": "Recorder / Clerk",
+            "phone": "(302) 744-2314",
+            "online_portal_url": "https://de.uslandrecords.com/delr/DelrApp/index.jsp"
+          },
+          {
+            "office_name": "Kent Mapping / GIS",
+            "office_type": "GIS / Mapping",
+            "phone": null,
+            "online_portal_url": "https://experience.arcgis.com/experience/54c688254df542409fbf81a5dd5d8291"
+          },
+          {
+            "office_name": "City of Dover Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 736-7022",
+            "online_portal_url": "https://selfservice.dover.de.us/css/citizens/RealEstate/Default.aspx?mode=new"
+          },
+          {
+            "office_name": "City of Milford Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 422-6616",
+            "online_portal_url": "https://cityofmilfordde.tylerportico.com/css/citizen-selfservice/real-estate/search"
+          },
+          {
+            "office_name": "Historic Aerials",
+            "office_type": "Other",
+            "phone": null,
+            "online_portal_url": "https://www.historicaerials.com/"
+          },
+          {
+            "office_name": "Kent Tax Office/Treasurer",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 744-2341",
+            "online_portal_url": "https://pride.kentcountyde.gov/"
+          },
+          {
+            "office_name": "Kent Assessor",
+            "office_type": "Assessor / Appraiser",
+            "phone": "(302) 744-2401",
+            "online_portal_url": "https://pride.kentcountyde.gov/disclosure/"
+          },
+          {
+            "office_name": "Kent NETR Mapping and GIS",
+            "office_type": "GIS / Mapping",
+            "phone": null,
+            "online_portal_url": "https://map.netronline.com/delaware-kent/10001"
+          }
+        ]
+      },
+      {
+        "county_name": "New Castle",
+        "county_url": "https://publicrecords.netronline.com/state/DE/county/new_castle",
+        "gis_map_url": "https://map.netronline.com/delaware-new_castle/10003",
+        "historic_aerials_url": "https://www.historicaerials.com/",
+        "offices": [
+          {
+            "office_name": "New Castle Department of Land Use",
+            "office_type": "Other",
+            "phone": "(302) 395-5400",
+            "online_portal_url": "https://www3.newcastlede.gov/parcel/search/"
+          },
+          {
+            "office_name": "New Castle Recorder",
+            "office_type": "Recorder / Clerk",
+            "phone": "(302) 395-7700",
+            "online_portal_url": "https://www.newcastlede.gov/144/Document-Search"
+          },
+          {
+            "office_name": "New Castle Treasurer",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 395-5340",
+            "online_portal_url": "https://www3.newcastlede.gov/parcel/search/"
+          },
+          {
+            "office_name": "City of Wilmington Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 571-4320",
+            "online_portal_url": "https://www.wilmingtonde.gov/residents/online-payments"
+          },
+          {
+            "office_name": "New Castle Mapping / GIS",
+            "office_type": "GIS / Mapping",
+            "phone": null,
+            "online_portal_url": "https://www3.newcastlede.gov/parcel/search/"
+          },
+          {
+            "office_name": "Town of Middletown Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 378-2711",
+            "online_portal_url": "https://wipp.edmundsassoc.com/Wipp/?wippid=23"
+          },
+          {
+            "office_name": "City of Newark Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 366-7000",
+            "online_portal_url": "https://newarkde.gov/134/Property-Taxes"
+          },
+          {
+            "office_name": "Historic Aerials",
+            "office_type": "Other",
+            "phone": null,
+            "online_portal_url": "https://www.historicaerials.com/"
+          },
+          {
+            "office_name": "New Castle NETR Mapping and GIS",
+            "office_type": "GIS / Mapping",
+            "phone": null,
+            "online_portal_url": "https://map.netronline.com/delaware-new_castle/10003"
+          }
+        ]
+      },
+      {
+        "county_name": "Sussex",
+        "county_url": "https://publicrecords.netronline.com/state/DE/county/sussex",
+        "gis_map_url": "https://map.netronline.com/delaware-sussex/10005",
+        "historic_aerials_url": "https://www.historicaerials.com/",
+        "offices": [
+          {
+            "office_name": "Sussex Register of Deeds",
+            "office_type": "Recorder / Clerk",
+            "phone": "(302) 855-7785",
+            "online_portal_url": "https://deeds.sussexcountyde.gov/LandmarkWeb"
+          },
+          {
+            "office_name": "Sussex Mapping / GIS",
+            "office_type": "GIS / Mapping",
+            "phone": "(302) 855-1176",
+            "online_portal_url": "https://sussexcountyde.gov/sussex-county-mapping-applications"
+          },
+          {
+            "office_name": "Sussex Assessor",
+            "office_type": "Assessor / Appraiser",
+            "phone": "(302) 855-7753",
+            "online_portal_url": "https://property.sussexcountyde.gov/PT/forms/htmlframe.aspx?mode=content/home.htm"
+          },
+          {
+            "office_name": "City of Seaford Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 629-9173",
+            "online_portal_url": "https://wipp.edmundsassoc.com/Wipp/?wippid=SFRD"
+          },
+          {
+            "office_name": "Town of Ocean View Tax",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 539-9797",
+            "online_portal_url": "https://wipp.edmundsassoc.com/Wipp/?wippid=OCVW"
+          },
+          {
+            "office_name": "Historic Aerials",
+            "office_type": "Other",
+            "phone": null,
+            "online_portal_url": "https://www.historicaerials.com/"
+          },
+          {
+            "office_name": "Sussex Treasurer",
+            "office_type": "Tax Collector / Treasurer",
+            "phone": "(302) 855-7871",
+            "online_portal_url": "https://sussexcountyde.munisselfservice.com/css/citizens/RealEstate/Default.aspx?mode=new"
+          },
+          {
+            "office_name": "Sussex NETR Mapping and GIS",
+            "office_type": "GIS / Mapping",
+            "phone": null,
+            "online_portal_url": "https://map.netronline.com/delaware-sussex/10005"
+          }
+        ]
+      }
+    ]
+  }
+]
